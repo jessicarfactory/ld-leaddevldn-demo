@@ -7,6 +7,7 @@ import Header from "./components/header";
 import Login from "./components/login";
 import Intro from "./components/intro";
 import Release from "./components/release";
+import React  from 'react';
 
 function App() {
   const { qrcode, upperimage, logoversion, cardshow, login, prodHeader, release } = useFlags();

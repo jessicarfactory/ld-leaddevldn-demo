@@ -1,4 +1,5 @@
 import { Toaster } from "react-hot-toast";
+import React from 'react';
 
 export default function Toasts() {
     return (

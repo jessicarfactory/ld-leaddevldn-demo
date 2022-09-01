@@ -1,3 +1,4 @@
+import React from 'react';
 export default function Release () {
 return (
     <div className="grid h-1/2 grid-cols-4 place-items-center">

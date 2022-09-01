@@ -1,3 +1,4 @@
+import React from 'react';
 export default function Intro (flag) {
   console.log(flag.release)
 return (

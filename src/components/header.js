@@ -1,4 +1,5 @@
 import ld from '../ld-white-wide.png'
+import React from 'react';
 
 
 export default function Header(props) {
@@ -10,7 +11,7 @@ export default function Header(props) {
       <br></br>
       </div>
       <div className="text-base md:text-4xl pb-4 2xl:text-6xl">
-        <p>Welcome to <span className="text-transparent bg-clip-text bg-gradient-to-br from-ldyellow to-lddblue">LeadDev</span> London 2022</p>
+        <p>Welcome to <span className="text-transparent bg-clip-text bg-gradient-to-br from-ldyellow to-lddblue">GOTO AWS + EDA</span> London 2022</p>
       <div className="text-base md:text-3xl pb-4 2xl:text-6xl">
         <br></br>
         <p>Ship and <span className="text-transparent bg-clip-text bg-gradient-to-br from-ldyellow to-lddblue">release</span> features faster</p>

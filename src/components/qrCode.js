@@ -1,4 +1,5 @@
 import QRCode from "react-qr-code";
+import React from 'react';
 
 // const QRURL = "https://codyde.github.io/ld-demo-app/";
 const QRURL = "https://cody-ld-demo.netlify.app/"
